@@ -15,7 +15,7 @@ Employee Manager is a .NET application for managing employee records and it serv
 The project relies on the following technologies and libraries:
 
 - [.NET 7.0](https://dotnet.microsoft.com/download/dotnet/7.0) - The latest version of the .NET framework.
-- [Prism](https://prismlibrary.com/) - A popular framework for building XAML applications in WPF and Xamarin.
+- [Prism](https://prismlibrary.com/) - A popular framework for building XAML applications in WPF.
 - [Microsoft.NET.Sdk.WindowsDesktop](https://dotnet.microsoft.com/apps/desktop) - Provides support for Windows desktop applications.
 
 ## Getting Started
@@ -23,7 +23,7 @@ The project relies on the following technologies and libraries:
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the solution in Visual Studio (or your preferred IDE).
+2. Open the solution in Visual Studio.
 3. Ensure that you have the required .NET SDK and runtime installed.
 4. Restore NuGet packages for the solution.
 5. Build and run the Employee Manager application.
