@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 
 - **Update existing employee records**: The ability to update existing employee records is currently missing 
 
-- **MVVM pattern**: The MVVM (Model-View-ViewModel) pattern, while present, could be improved for better separation of concerns and maintainability
+- **MVVM pattern**: The MVVM pattern is partly applied, and must be improved for better separation of concerns and maintainability
 
 - **View names**: The naming conventions for views could be more descriptive
 
